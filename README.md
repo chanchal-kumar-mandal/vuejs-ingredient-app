@@ -1,4 +1,8 @@
-# vuejs-crud-app
+# vuejs-ingredient-app
+
+## Description
+
+Representing Ingredient Details From Content Graph Data.
 
 ## Project setup
 ```
