@@ -15,7 +15,7 @@ vue create vuejs-ingredient-app
 ### Go to app directory
 cd vuejs-ingredient-app
   
-### Start app open http://localhost:3000) to view it in your browser after run below command. 
+### Start app open (http://localhost:8080/) to view it in your browser after run below command. 
 npm run serve
 
 ### Add router
@@ -28,7 +28,7 @@ npm i axios
 npm install vue bootstrap bootstrap-vue
 
 ### Imporatnat links
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://vuejs.org/guide/introduction.html
 
 ## Demo screenshots
 
